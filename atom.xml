@@ -3,11 +3,11 @@
   <title>PCTL</title>
   
   
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zeerre.github.io/pctl/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
-  <updated>2022-10-28T10:39:52.282Z</updated>
-  <id>http://example.com/</id>
+  <link href="https://zeerre.github.io/pctl/"/>
+  <updated>2022-10-29T00:38:05.059Z</updated>
+  <id>https://zeerre.github.io/pctl/</id>
   
   <author>
     <name>Zee</name>
@@ -17,9 +17,32 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>test</title>
+    <link href="https://zeerre.github.io/pctl/2022/10/29/test/"/>
+    <id>https://zeerre.github.io/pctl/2022/10/29/test/</id>
+    <published>2022-10-29T00:30:58.000Z</published>
+    <updated>2022-10-29T00:38:05.059Z</updated>
+    
+    <content type="html"><![CDATA[<p>TEST !</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;TEST !&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    
+    <category term="test" scheme="https://zeerre.github.io/pctl/tags/test/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Hello World</title>
-    <link href="http://example.com/2022/10/28/hello-world/"/>
-    <id>http://example.com/2022/10/28/hello-world/</id>
+    <link href="https://zeerre.github.io/pctl/2022/10/28/hello-world/"/>
+    <id>https://zeerre.github.io/pctl/2022/10/28/hello-world/</id>
     <published>2022-10-28T10:39:52.282Z</published>
     <updated>2022-10-28T10:39:52.282Z</updated>
     
